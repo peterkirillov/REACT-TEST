@@ -1,0 +1,15 @@
+import React from "react";
+
+const History = props => (
+        <div className="history">
+            <h1>History of human augmentation.</h1>
+            <label>Warriors have been wearing armor on their bodies since ancient times, but the idea of a body with mechanical muscles appeared in science fiction back in 1868, when Edward Sylvester Ellis published a dime novel, "The Steam Man of the Prairies." The book depicted a giant humanoid-shaped steam engine that towed its inventor, the ingenious Johnny Brainerd, behind it in a cart at speeds of 60 miles an hour (96.5 kilometers per hour), while it chased buffaloes and terrorized Indians.</label>
+            <label>By 1961, two years before the fictional Iron Man was created by Marvel Comics, the Pentagon had actually invited proposals for real-life wearable robots. An Associated Press article reported on the quest to develop the "servo soldier," which it described as "a human tank equipped with power steering and power brakes" that would be able to fun faster and lift heavy objects, and which would be immune to germ warfare, poison gas and even heat and radiation from nuclear blasts. By the mid-1960s, Cornell University engineer Neil Mizen had developed a 35-pound (15.8-kilogram) wearable frame exoskeleton, dubbed the "superman suit" or the "man amplifier," that Popular Science magazine cheerfully predicted eventually would allow a user to lift 1,000 pounds (453.6 kilograms) with each hand. Meanwhile, General Electric developed plans for an 18-foot-tall (5.5-meter) device, the "pedipulator," that would carry its operator around inside.</label>
+<label>Those concepts proved impractical, but the research continued. In the 1980s, scientists at the Los Alamos National Laboratory created a design for something called the Pitman suit, a full-body powered exoskeleton for use by U.S. Army infantrymen. But it stayed on the drawing board. In the 1990s, the U.S. Army Research Laboratory at Aberdeen Proving Ground explored building a suit that actually bore some resemblance to Iron Man's, but that project never got anywhere either.</label>
+<label>For years, would-be powered exoskeleton makers were stymied by the limitations of technology. Computers were too slow and puny to do the processing required to make a suit respond to a wearer's commands or movements. There wasn't an energy supply that was sufficiently portable, and actuators, the electromechanical muscles that would move an exoskeleton, were just too weak and bulky to work like a human body. Nevertheless, the idea of a mechanized, armored super-soldier was still alluring to Army generals, and scientists and designers continued to toil away at the possibilities.</label>
+<label>In the next section, we'll look at the progress they've made in solving those problems and developing a practical powered exoskeleton.
+</label>
+        </div>
+)
+
+export default History;
